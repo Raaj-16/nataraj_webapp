@@ -11,7 +11,7 @@ export function About() {
     {
       icon: Briefcase,
       title: 'Experience',
-      description: '3+ years of experience in building scalable web applications and digital experiences.',
+      description: '2.5+ years of experience in building scalable web applications and digital experiences.',
     },
     {
       icon: GraduationCap,

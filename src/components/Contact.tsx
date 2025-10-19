@@ -9,8 +9,8 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'natarajan.jai.1607@gmail.com',
-      link: 'mailto:natarajan.jai.1607@gmail.com',
+      value: 'natarajan@example.com',
+      link: 'mailto:natarajan@example.com',
       color: '#F3EFE0',
     },
     {
